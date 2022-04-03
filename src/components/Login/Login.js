@@ -56,7 +56,6 @@ const Login = (props) => {
   //       enteredEmail.includes('@') && enteredPassword.trim().length > 6
   //     );
   //   }, 500);
-
   //   return () => {
   //     console.log('CLEANUP');
   //     clearTimeout(identifier);
